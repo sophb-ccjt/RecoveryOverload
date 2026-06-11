@@ -20,9 +20,9 @@ that frame being the one where the Dev Mode options are visible.
 
 ## Method
 
-1. Enter recovery (`Esc+⟳+⏻`)
+1. Boot into recovery (`Esc+⟳+⏻`)
 2. Enter Developer Mode (`Ctrl+D` → `Enter`)
-3. Cancel secure mode transition (Select the `[Cancel]` option OR `Escape`)
+3. Cancel secure mode transition (Select the `[Cancel]` option OR press `Escape`)
 4. Spam the keyboard inputs to the Developer Mode option you want to select
 
 And if all goes well, the behavior for the option you selected will happen.
